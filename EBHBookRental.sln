@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EBHBookRental", "EBHBookRental\EBHBookRental.csproj", "{C3E7F2FE-CA9E-4B97-B5CD-BFD69A0021B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookRental.Data", "EBHBookRental.Data\BookRental.Data.csproj", "{E3EF2F0D-A80E-434D-A8D4-ABB244DE4900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3E7F2FE-CA9E-4B97-B5CD-BFD69A0021B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E7F2FE-CA9E-4B97-B5CD-BFD69A0021B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E7F2FE-CA9E-4B97-B5CD-BFD69A0021B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E7F2FE-CA9E-4B97-B5CD-BFD69A0021B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3EF2F0D-A80E-434D-A8D4-ABB244DE4900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3EF2F0D-A80E-434D-A8D4-ABB244DE4900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3EF2F0D-A80E-434D-A8D4-ABB244DE4900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3EF2F0D-A80E-434D-A8D4-ABB244DE4900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {547B72C0-0AC7-4A73-9186-49829113CA4D}
+	EndGlobalSection
+EndGlobal
